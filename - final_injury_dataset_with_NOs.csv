@@ -1,0 +1,497 @@
+Description,Severity,First Aid Steps,Injury Type,Pill Needed
+i have stomach pain after eating street food,MILD,"Drink clean water, rest, eat light food, if persists consult doctor.",Abdominal Pain,antacid
+severe stomach pain with vomiting and dizziness,SEVERE,"Lie down, hydrate if possible, seek immediate medical attention.",Abdominal Pain,antacid
+i have stomach cramps after eating too fast,MILD,"Sit upright, sip warm water, eat slowly next time.",Abdominal Pain,antacid
+severe abdominal pain after eating old food,SEVERE,"Lie down, do not eat or drink until doctor consult, seek medical help.",Abdominal Pain,antacid
+my stomach hurts badly after roadside food,MODERATE,"Sip ORS slowly, rest, seek doctor if pain increases or vomiting starts.",Abdominal Pain,antacid
+severe stomach pain with vomiting blood,SEVERE,Seek emergency medical help immediately.,Abdominal Pain,NO
+how do you treat abdominal pain?,MODERATE,"Resting, staying hydrated with clear fluids, and potentially using a heating pad or warm compress. Consider taking over-the-counter pain relievers like paracetamol. If the pain is severe, persistent, or accompanied by other concerning symptoms, seek immediate medical attention. ",Abdominal Pain,NO
+what to do if i get a abdominal pain?,MODERATE,"Resting, staying hydrated with clear fluids, and potentially using a heating pad or warm compress. Consider taking over-the-counter pain relievers like paracetamol. If the pain is severe, persistent, or accompanied by other concerning symptoms, seek immediate medical attention. ",Abdominal Pain,NO
+which medicine to take if i get a abdominal pain?,MODERATE,"Resting, staying hydrated with clear fluids, and potentially using a heating pad or warm compress. Consider taking over-the-counter pain relievers like paracetamol. If the pain is severe, persistent, or accompanied by other concerning symptoms, seek immediate medical attention. ",Abdominal Pain,NO
+how to cure abdominal pain?,MODERATE,"Resting, staying hydrated with clear fluids, and potentially using a heating pad or warm compress. Consider taking over-the-counter pain relievers like paracetamol. If the pain is severe, persistent, or accompanied by other concerning symptoms, seek immediate medical attention. ",Abdominal Pain,NO
+how do you treat abrasions?,MILD,"Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape if not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection.",Abrasions,NO
+do abrasions cause scars?,MILD,"Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape if not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection.",Abrasions,NO
+abrasions,MILD,"Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape if not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection.",Abrasions,NO
+what to do if abrasions?,MILD,"Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape if not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection.",Abrasions,NO
+which medicine to apply for abrasions?,MILD,"Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape if not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection.",Abrasions,NO
+how to cure abrasions?,MILD,"Begin with washed hands.Gently clean the area with cool to lukewarm water and mild soap. Remove dirt or other particles from the wound using sterilized tweezers.For a mild scrape if not bleeding, leave the wound uncovered.If the wound is bleeding, use a clean cloth or bandage, and apply gentle pressure to the area to stop any bleeding.Cover a wound that bled with a thin layer of topical antibiotic ointment, like Bacitracin, or a sterile moisture barrier ointment, like Aquaphor. Cover it with a clean bandage or gauze. Gently clean the wound and change the ointment and bandage once per day.Watch the area for signs of infection, like pain or redness and swelling. See your doctor if you suspect infection.",Abrasions,NO
+severe allergic reaction with swelling in throat,SEVERE,"Call ambulance immediately, keep patient calm, monitor breathing.",Allergy,NO
+my lips are swollen after eating peanuts,SEVERE,"Possible severe allergy, call ambulance immediately, keep sitting upright.",Allergy,NO
+"severe allergic reaction to peanuts, lips swelling",SEVERE,"Administer epipen if available, call ambulance immediately.",Allergy,NO
+mild rash on arms after wearing wool sweater,MILD,"Remove sweater, wash skin, apply moisturiser or antihistamine cream.",Allergy,Cetirizine
+mild itching on face after facewash,MILD,"Rinse with water, apply moisturiser.",Allergy,Cetirizine
+severe allergic reaction with throat swelling,SEVERE,"Use epipen if available, call ambulance immediately.",Allergy,NO
+severe allergic reaction after injection,SEVERE,"Seek emergency care immediately, use epipen if available.",Allergy,NO
+how do you treat a animal bite?,MODERATE,"Wash the wound thoroughly with soap and water. Apply antiseptic. Cover with a clean bandage. Seek medical help for deep bites, bleeding, or if vaccination (tetanus/rabies) is needed.",animal bite,NO
+a dog bit me on my leg,SEVERE,"Wash wound with soap and water, cover with sterile dressing, seek medical help immediately.",animal bite,NO
+how do you treat a monkey bite?,MODERATE,"Wash the wound thoroughly with soap and water. Apply antiseptic. Cover with a clean bandage. Seek medical help for deep bites, bleeding, or if vaccination (tetanus/rabies) is needed.",animal bite,NO
+how do you treat a dog bite?,MODERATE,"Wash the wound thoroughly with soap and water. Apply antiseptic. Cover with a clean bandage. Seek medical help for deep bites, bleeding, or if vaccination (tetanus/rabies) is needed.",animal bite,NO
+what to do if i get a animal bite?,MODERATE,"Wash the wound thoroughly with soap and water. Apply antiseptic. Cover with a clean bandage. Seek medical help for deep bites, bleeding, or if vaccination (tetanus/rabies) is needed.",animal bite,NO
+which medicine to take if i get a monkey bite?,MODERATE,"Wash the wound thoroughly with soap and water. Apply antiseptic. Cover with a clean bandage. Seek medical help for deep bites, bleeding, or if vaccination (tetanus/rabies) is needed.",animal bite,NO
+how to cure dog bite?,MODERATE,"Wash the wound thoroughly with soap and water. Apply antiseptic. Cover with a clean bandage. Seek medical help for deep bites, bleeding, or if vaccination (tetanus/rabies) is needed.",animal bite,NO
+i got bit by a dog,MODERATE,"Wash the wound thoroughly with soap and water. Apply antiseptic. Cover with a clean bandage. Seek medical help for deep bites, bleeding, or if vaccination (tetanus/rabies) is needed.",animal bite,NO
+"i stepped on a nail, bleeding and painful",MODERATE,"Wash wound, apply antiseptic, cover with dressing, seek doctor for tetanus shot.",bleed,NO
+i have a nosebleed after getting hit on face,MODERATE,"Pinch nose, lean forward, apply ice on nose bridge, seek doctor if continues.",bleed,NO
+"large glass piece stuck in foot, bleeding",SEVERE,"Do not remove glass, immobilise foot, seek medical help immediately.",bleed,NO
+"i fell off bike, knees are bruised and bleeding",MODERATE,"Wash wounds with clean water, apply antiseptic, cover with bandage, monitor for infection.",bleed,NO
+scraped elbow while falling from cycle,MILD,"Wash wound with water, apply antiseptic, cover with gauze.",bleed,NO
+severe bleeding from nose not stopping after 10 mins,SEVERE,"Lean forward, pinch nose, seek immediate medical help.",bleed,NO
+severe bleeding from mouth after fall,SEVERE,"Apply pressure if visible wound, seek emergency dental or medical care.",bleed,NO
+"my nose is bleeding a little, should i be worried?",MILD,"Pinch nose, lean forward, spit out blood, seek care if lasts over 20 mins.",bleed,NO
+my nose is bleeding heavily after hitting it on the door,SEVERE,"Pinch nose, lean forward, apply ice on bridge, seek emergency care if it doesnÂ’t stop.",bleed,NO
+my lip is bleeding a lot after falling,SEVERE,"Apply pressure with clean cloth, seek medical care if bleeding doesnÂ’t stop.",bleed,NO
+my nosebleed isn’t stopping even after 10 minutes,MODERATE,"Lean forward, pinch nose bridge, seek emergency care if it doesn’t stop.",bleed,NO
+my foot got caught under the bike and is bleeding,SEVERE,"Apply pressure to stop bleeding, cover with sterile cloth, seek emergency care.",bleed,NO
+how do you treat broken teeth ?,MILD,"Rinse mouth with warm water. Save broken pieces in milk or saliva. Apply cold pack to reduce swelling. In case of broken teeth in adults, see a dentist immediately.",Broken teeth,NO
+what to do if my teeth got broken?,MILD,"Rinse mouth with warm water. Save broken pieces in milk or saliva. Apply cold pack to reduce swelling. In case of broken teeth in adults, see a dentist immediately.",Broken teeth,NO
+which medicine to take if i get broken teeth?,MILD,"Rinse mouth with warm water. Save broken pieces in milk or saliva. Apply cold pack to reduce swelling. In case of broken teeth in adults, see a dentist immediately.",Broken teeth,NO
+cure broken teeth?,MILD,"Rinse mouth with warm water. Save broken pieces in milk or saliva. Apply cold pack to reduce swelling. In case of broken teeth in adults, see a dentist immediately.",Broken teeth,NO
+how do you treat a broken toe?,SEVERE," Rest the foot, apply ice, elevate the foot, use pain relievers if required. If the toe is deformed, bleeding heavily, or the bone is visible, seek immediate medical attention",Broken Toe,NO
+what to do if i get a broken toe?,SEVERE," Rest the foot, apply ice, elevate the foot, use pain relievers if required. If the toe is deformed, bleeding heavily, or the bone is visible, seek immediate medical attention",Broken Toe,NO
+which medicine to take if i get a broken toe?,SEVERE," Rest the foot, apply ice, elevate the foot, use pain relievers if required. If the toe is deformed, bleeding heavily, or the bone is visible, seek immediate medical attention",Broken Toe,NO
+how to cure broken toe?,SEVERE," Rest the foot, apply ice, elevate the foot, use pain relievers if required. If the toe is deformed, bleeding heavily, or the bone is visible, seek immediate medical attention",Broken Toe,NO
+how do you treat bruises?,MILD,"Ice the bruise with an ice pack wrapped in a towel. Leave it in place for 10 to 20 minutes. Repeat several times a day for a day or two as needed. Compress the bruised area if it is swelling, using an elastic bandage. ",Bruises,NO
+what to do if i get a bruise?,MILD,"Ice the bruise with an ice pack wrapped in a towel. Leave it in place for 10 to 20 minutes. Repeat several times a day for a day or two as needed. Compress the bruised area if it is swelling, using an elastic bandage. ",Bruises,NO
+which medicine to take if i get a bruise?,MILD,"Ice the bruise with an ice pack wrapped in a towel. Leave it in place for 10 to 20 minutes. Repeat several times a day for a day or two as needed. Compress the bruised area if it is swelling, using an elastic bandage. ",Bruises,NO
+how to cure bruises?,MILD,"Ice the bruise with an ice pack wrapped in a towel. Leave it in place for 10 to 20 minutes. Repeat several times a day for a day or two as needed. Compress the bruised area if it is swelling, using an elastic bandage. ",Bruises,NO
+"burnt my finger while cooking, skin is red but not blistered",MILD,"Place under cool running water for 10 minutes, do not apply ice, cover loosely.",burn,NO
+hot oil splashed on my hand and formed a small blister,MODERATE,"Cool burn under running water, do not pop blister, cover with sterile non-stick dressing.",burn,NO
+hot tea fell on my thigh and skin is peeling,SEVERE,"Cool with running water for 10 mins, cover with sterile dressing, seek immediate medical care.",burn,NO
+i got a small burn from my curling iron,MILD,"Cool area under running water, apply burn ointment if needed.",burn,NO
+i burnt my tongue with hot tea,MILD,"Sip cool water, suck ice chips, avoid hot/spicy food.",burn,NO
+i burnt my hand with steam from cooker,MODERATE,"Cool burn with running water for 10 mins, cover with sterile dressing, avoid ointments.",burn,NO
+i burnt my foot with boiling water,SEVERE,"Cool burn under running water for 10 mins, cover loosely, seek medical help.",burn,NO
+small burn on my arm while ironing clothes,MILD,"Cool under running water, apply burn ointment, cover if needed.",burn,NO
+i spilled hot coffee on my thigh,MODERATE,"Remove clothing over burn, cool with running water for 10 mins, cover with sterile dressing.",burn,NO
+i burnt my finger while lighting stove,MILD,"Cool under running water, apply burn ointment, cover if needed.",burn,NO
+minor burn on my wrist while baking,MILD,"Cool under running water, apply burn ointment, cover if needed.",burn,NO
+severe burn with skin peeling on arm,SEVERE,"Do not peel skin, cool burn under water, cover loosely with sterile dressing, seek emergency care.",burn,NO
+severe sunburn with blisters and fever,SEVERE,"Cool compress, do not burst blisters, seek emergency care.",burn,Paracetamol
+light burn on finger from matchstick,MILD,"Cool under running water, apply burn cream, cover if needed.",burn,NO
+severe electric shock with burns,SEVERE,"Call ambulance immediately, do not touch person until power off, check breathing.",burn,NO
+mild burn from hot tea spill,MILD,"Cool under running water, apply burn cream.",burn,NO
+severe burn with charred skin,SEVERE,"Do not apply anything, cover loosely with sterile cloth, seek emergency care.",burn,NO
+"my hand got burnt a little while cooking, is it okay?",MILD,"Hold under cool running water for 10 minutes, don’t apply ice, cover loosely.",burn,NO
+"i burnt my hand badly with hot oil, skin is peeling, help!",SEVERE,"Cool burn under water, don’t remove stuck clothing, cover with clean cloth, seek emergency care immediately.",burn,NO
+i burnt my finger slightly touching the cooker,MILD,"Cool under running water for 10 mins, don’t apply ice, cover if needed.",burn,NO
+my burn is blistered and very painful,SEVERE,"Cool under water, donÂ’t burst blisters, cover loosely with sterile cloth, seek medical care.",burn,NO
+my eyes are burning after soap went in,MILD,"Rinse eyes with clean water for several minutes, avoid rubbing.",burn,NO
+the burn on my hand has blisters and hurts a lot,SEVERE,"Cool under water, donÂ’t pop blisters, cover loosely with sterile cloth, seek medical care.",burn,NO
+my burn is turning white and feels numb,SEVERE,"Cover loosely with sterile cloth, seek emergency care.",burn,NO
+how do you treat a chemical burn?,SEVERE,"Remove contaminated clothing. Rinse the area with running water for at least 20 minutes. Avoid scrubbing the burn. Cover with a clean, dry cloth. Seek medical help immediately.",Chemical Burn,NO
+what to do if i get a chemical burn?,SEVERE,"Remove contaminated clothing. Rinse the area with running water for at least 20 minutes. Avoid scrubbing the burn. Cover with a clean, dry cloth. Seek medical help immediately.",Chemical Burn,NO
+which medicine to take if i get burn due to chemicals?,SEVERE,"Remove contaminated clothing. Rinse the area with running water for at least 20 minutes. Avoid scrubbing the burn. Cover with a clean, dry cloth. Seek medical help immediately.",Chemical Burn,NO
+how to cure chemical burn?,SEVERE,"Remove contaminated clothing. Rinse the area with running water for at least 20 minutes. Avoid scrubbing the burn. Cover with a clean, dry cloth. Seek medical help immediately.",Chemical Burn,NO
+severe choking and unable to breathe,SEVERE,"Perform Heimlich maneuver, seek emergency help immediately.",choking,NO
+how do you treat choking?,SEVERE,"Encourage them to keep coughing to try to clear the blockage. Ask them to try to spit out the object if it's in their mouth. If coughing doesn't work, start back blows and Abdonominal thrusts",choking,NO
+what to do if i get a choke?,SEVERE,"Encourage them to keep coughing to try to clear the blockage. Ask them to try to spit out the object if it's in their mouth. If coughing doesn't work, start back blows and Abdonominal thrusts",choking,NO
+which medicine to take if i get choked?,SEVERE,"Encourage them to keep coughing to try to clear the blockage. Ask them to try to spit out the object if it's in their mouth. If coughing doesn't work, start back blows and Abdonominal thrusts",choking,NO
+how to cure choking?,SEVERE,"Encourage them to keep coughing to try to clear the blockage. Ask them to try to spit out the object if it's in their mouth. If coughing doesn't work, start back blows and Abdonominal thrusts",choking,NO
+mild cough and sore throat,MILD,"Drink warm fluids, gargle salt water, rest voice.",Cold,Dextromethorphan
+severe cough with difficulty breathing,SEVERE,"Sit upright, keep calm, seek medical help immediately.",Cold,Dextromethorphan
+mild cough with no other symptoms,MILD,"Drink warm fluids, rest voice, monitor.",Cold,Dextromethorphan
+severe coughing with blood in sputum,SEVERE,Seek emergency medical help immediately.,Cold,Dextromethorphan
+mild sore throat since last night,MILD,"Gargle with warm salt water, drink warm fluids.",Cold,NO
+severe sore throat with difficulty breathing,SEVERE,Seek emergency care immediately.,Cold,NO
+mild coughing after drinking water fast,MILD,"Cough gently, drink slowly next time.",Cold,Dextromethorphan
+mild cold with runny nose,MILD,"Rest, drink warm fluids, monitor symptoms.",Cold,Paracetamol
+severe flu symptoms with breathing difficulty,SEVERE,Seek emergency medical care immediately.,Cold,NO
+i have mild chest pain when i cough,MODERATE,"Rest, drink warm fluids, consult doctor if pain persists.",Cold,Dextromethorphan
+my son is coughing continuously,MODERATE,"Give warm fluids, consult doctor if it continues.",Cold,Dextromethorphan
+he’s coughing and struggling to breathe,SEVERE,Seek emergency medical care immediately.,Cold,Dextromethorphan
+how do you treat a cold?,MILD,Rest and stay hydrated. Drink warm fluids to soothe throat. Use steam inhalation congestion. Take paracetamol if needed for fever or pain. Seek medical help if symptoms worsen or last over 10 days.,Cold,Paracetamol
+what to do if i get a mild cold?,MILD,Rest and stay hydrated. Drink warm fluids to soothe throat. Use steam inhalation congestion. Take paracetamol if needed for fever or pain. Seek medical help if symptoms worsen or last over 10 days.,Cold,Paracetamol
+which medicine to take if i have a cold?,MILD,Rest and stay hydrated. Drink warm fluids to soothe throat. Use steam inhalation congestion. Take paracetamol if needed for fever or pain. Seek medical help if symptoms worsen or last over 10 days.,Cold,Paracetamol
+how to cure cold?,MILD,Rest and stay hydrated. Drink warm fluids to soothe throat. Use steam inhalation congestion. Take paracetamol if needed for fever or pain. Seek medical help if symptoms worsen or last over 10 days.,Cold,Paracetamol
+how to cure cough?,MILD,Mix Honey into warm drinks. Staying hydrated is vital for those with a cough or cold. Take cough drops or over the counter Dextromethorphans,Cough,Dextromethorphan
+how do you treat cough?,MILD,Mix Honey into warm drinks. Staying hydrated is vital for those with a cough or cold. Take cough drops or over the counter Dextromethorphans,Cough,Dextromethorphan
+what to do if i get a cough?,MILD,Mix Honey into warm drinks. Staying hydrated is vital for those with a cough or cold. Take cough drops or over the counter Dextromethorphans,Cough,Dextromethorphan
+which medicine to take if i get cough?,MILD,Mix Honey into warm drinks. Staying hydrated is vital for those with a cough or cold. Take cough drops or over the counter Dextromethorphans,Cough,Dextromethorphan
+how do you get rid of cough?,MILD,Mix Honey into warm drinks. Staying hydrated is vital for those with a cough or cold. Take cough drops or over the counter Dextromethorphans,Cough,Dextromethorphan
+how to give cpr??,MILD,Check responsiveness and breathing. Call emergency services. Give 30 chest compressions (push hard and fast in center of chest). Give 2 rescue breaths if trained. Continue CPR until help arrives or person recovers.,CPR,NO
+what to do in a cpr?,MILD,Check responsiveness and breathing. Call emergency services. Give 30 chest compressions (push hard and fast in center of chest). Give 2 rescue breaths if trained. Continue CPR until help arrives or person recovers.,CPR,NO
+what steps to take in a cpr??,MILD,Check responsiveness and breathing. Call emergency services. Give 30 chest compressions (push hard and fast in center of chest). Give 2 rescue breaths if trained. Continue CPR until help arrives or person recovers.,CPR,NO
+how to help a drowning person in cpr?,MILD,Check responsiveness and breathing. Call emergency services. Give 30 chest compressions (push hard and fast in center of chest). Give 2 rescue breaths if trained. Continue CPR until help arrives or person recovers.,CPR,NO
+i cut my finger slightly while chopping vegetables,MILD,"Wash the cut with clean water, apply antiseptic, and cover with a bandage.",cut,NO
+i have a small scratch on my arm,MILD,Clean with antiseptic wipe and cover with a plaster if needed.,cut,NO
+"deep cut on my hand, bleeding heavily",SEVERE,"Apply firm pressure with clean clothor medical gauze, elevate hand, seek medical help immediately.",cut,NO
+i scraped my knee while falling off my cycle,MILD,"Clean the wound with water, apply antiseptic, and cover with a sterile gauze.",cut,NO
+i fell off a swing and scraped my knee,MILD,"Wash with clean water, apply antiseptic cream, cover with plaster.",cut,NO
+"i fell off a swing and hurt my leg badly, can barely move it",SEVERE,"Immobilise leg, avoid standing, call for medical help immediately.",cut,NO
+"i stepped on glass piece, bleeding a little",MILD,"Remove glass if visible, wash with water, apply antiseptic and bandage.",cut,NO
+i cut my palm with knife deeply,SEVERE,"Apply pressure with clean cloth, elevate hand, seek immediate medical help.",cut,NO
+"i cut my finger while chopping onions, mild bleeding",MILD,"Wash with water, apply antiseptic, cover with bandaid.",cut,NO
+"deep cut on foot from metal sheet, bleeding heavily",SEVERE,"Apply pressure with clean cloth, elevate foot, seek emergency help.",cut,NO
+i cut my thumb deeply while cutting vegetables,SEVERE,"Apply firm pressure with clean cloth, elevate hand, seek emergency care.",cut,NO
+small cut on ear while wearing earring,MILD,"Clean with antiseptic, apply bandaid if needed.",cut,NO
+small cut on lip while eating,MILD,"Rinse mouth with clean water, apply antiseptic if needed.",cut,NO
+mild bleeding from shaving cut,MILD,"Apply gentle pressure, clean with antiseptic, cover with bandaid if needed.",cut,NO
+severe bleeding not stopping from shaving cut,SEVERE,"Apply firm pressure, seek medical help if persists beyond 10 minutes.",cut,NO
+"just have a tiny cut on my finger, what should i do?",MILD,"Wash cut with clean water, apply antiseptic, cover with bandaid.",cut,NO
+"there’s a big cut on my knee with lots of blood, what should i do?",SEVERE,"Apply firm pressure with clean cloth to stop bleeding, keep leg elevated, seek emergency care immediately.",cut,NO
+"i just cut my thumb while chopping vegetables, what should i do?",MILD,"Wash cut with water, apply antiseptic, cover with bandaid.",cut,NO
+"my cut is deep and bleeding a lot, help me please",SEVERE,"Apply firm pressure with clean cloth to stop bleeding, seek emergency care immediately.",cut,NO
+i canÂ’t feel my fingers after cutting them accidentally,SEVERE,"Apply pressure to stop bleeding, immobilise hand, seek emergency care immediately.",cut,NO
+my little brother has a small cut on his lip,MILD,"Clean gently with water, apply antiseptic, monitor for swelling.",cut,NO
+my friend fell and has a big cut on forehead,SEVERE,"Apply gentle pressure with clean cloth, seek emergency care immediately.",cut,NO
+what to do if cuts?,MILD,Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied.,cut,NO
+how to cure cuts?,MILD,Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied.,cut,NO
+which medicine to apply for cuts?,MILD,Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied.,cut,NO
+what to apply on cuts?,MILD,Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied.,cut,NO
+cuts,MILD,Wash the cut properly to prevent infection and stop the bleeding by applying pressure for 1-2minutes until bleeding stops. Apply Petroleum Jelly to make sure that the wound is moist for quick healing. Finally cover the cut with a sterile bandage. Pain relievers such as acetaminophen can be applied.,cut,NO
+i feel dehydrated after walking in sun,MILD,"Drink ORS or plenty of clean water, rest in shade.",dehydration,Oral Rehydration Salts (ORS)
+"severe dehydration symptoms (dry mouth, sunken eyes)",SEVERE,"Drink ORS if conscious, seek emergency care immediately.",dehydration,Oral Rehydration Salts (ORS)
+i drank very little water today and feel weak,MILD,"Drink ORS or water with salt and sugar, rest.",dehydration,Oral Rehydration Salts (ORS)
+i have loose motion since morning,MODERATE,"Drink ORS, eat light food, seek doctor if persists >2 days.",Diarrhea,Loperamide
+i have diarrhea since morning,MODERATE,"Drink ORS, avoid solid food for few hours, seek doctor if persists beyond 24 hours.",Diarrhea,Loperamide
+severe diarrhea with weakness and dry mouth,SEVERE,"Possible dehydration, seek immediate medical help, give ORS if conscious.",Diarrhea,Loperamide
+how do you treat diarrhea?,MILD,"Hydrating the body is essential for recovering from diarrhea.This causes the body to lose electrolytes such as sodium and chloride. It is highly recommended to avoid dairy products, as they may worsen diarrhea in some people. However, if diarrhea lasts for more than 2 days, seek medical advice to avoid complications.",Diarrhea,Loperamide
+what to do if i get diarrhea?,MILD,"Hydrating the body is essential for recovering from diarrhea.This causes the body to lose electrolytes such as sodium and chloride. It is highly recommended to avoid dairy products, as they may worsen diarrhea in some people. However, if diarrhea lasts for more than 2 days, seek medical advice to avoid complications.",Diarrhea,Loperamide
+which medicine to take if i get diarrhea?,MILD,"Hydrating the body is essential for recovering from diarrhea.This causes the body to lose electrolytes such as sodium and chloride. It is highly recommended to avoid dairy products, as they may worsen diarrhea in some people. However, if diarrhea lasts for more than 2 days, seek medical advice to avoid complications.",Diarrhea,Loperamide
+how to cure diarrhea?,MILD,"Hydrating the body is essential for recovering from diarrhea.This causes the body to lose electrolytes such as sodium and chloride. It is highly recommended to avoid dairy products, as they may worsen diarrhea in some people. However, if diarrhea lasts for more than 2 days, seek medical advice to avoid complications.",Diarrhea,Loperamide
+what to do if someone is drowning?,SEVERE,"Remove the person from water safely. Check breathing and pulse. If not breathing, start CPR immediately. Keep them warm and monitor. Call emergency services immediately.",Drowning,NO
+what to do if someone drowned?,SEVERE,"Remove the person from water safely. Check breathing and pulse. If not breathing, start CPR immediately. Keep them warm and monitor. Call emergency services immediately.",Drowning,NO
+what steps to take if i see a drowning person?,SEVERE,"Remove the person from water safely. Check breathing and pulse. If not breathing, start CPR immediately. Keep them warm and monitor. Call emergency services immediately.",Drowning,NO
+how to help a drowning person?,SEVERE,"Remove the person from water safely. Check breathing and pulse. If not breathing, start CPR immediately. Keep them warm and monitor. Call emergency services immediately.",Drowning,NO
+my eye is red and itchy after dust fell in,MILD,"Rinse eye with clean water or sterile eyewash, avoid rubbing.",EYE injury,NO
+my eye hurts after chemical splash,SEVERE,"Rinse eye with water for 15 minutes, keep eye closed, seek medical help immediately.",EYE injury,NO
+mild discomfort in eyes after long screen time,MILD,"Close eyes, rest, blink frequently, use lubricating drops.",EYE injury,NO
+severe eye pain with vision loss,SEVERE,Seek emergency ophthalmology care immediately.,EYE injury,NO
+mild redness in eyes after dust exposure,MILD,"Wash eyes with clean water, avoid rubbing.",EYE injury,NO
+severe eye injury with blood inside eye,SEVERE,"Cover eye, seek emergency ophthalmology care immediately.",EYE injury,NO
+how do you treat an eye injury?,MODERATE,"Do not rub the eye. Rinse with clean water if something is in it. Cover with a clean cloth or eye shield (don’t press). Seek medical help immediately for pain, vision changes, or serious injury.",EYE injury,NO
+what to do if i get a eye injury?,MODERATE,"Do not rub the eye. Rinse with clean water if something is in it. Cover with a clean cloth or eye shield (don’t press). Seek medical help immediately for pain, vision changes, or serious injury.",EYE injury,NO
+which medicine to take if i injured my eye?,MODERATE,"Do not rub the eye. Rinse with clean water if something is in it. Cover with a clean cloth or eye shield (don’t press). Seek medical help immediately for pain, vision changes, or serious injury.",EYE injury,NO
+how to cure injured eye?,MODERATE,"Do not rub the eye. Rinse with clean water if something is in it. Cover with a clean cloth or eye shield (don’t press). Seek medical help immediately for pain, vision changes, or serious injury.",EYE injury,NO
+my friend fainted suddenly,SEVERE,"Lay them down, elevate legs, loosen tight clothing, call for medical help if unresponsive.",Fainting,NO
+i fainted and still feel confused after waking up,SEVERE,"Lie down safely, drink water if alert, seek emergency medical care.",Fainting,NO
+my friend fainted during pe class and is not waking up,SEVERE,"Check breathing, call ambulance immediately, do not shake them.",Fainting,NO
+how do you treat faint?,MILD,Lay the person down and raise their legs. Loosen tight clothing. Ensure fresh air and check breathing. Seek medical help if they don’t regain consciousness quickly or faint repeatedly.,Fainting,NO
+what to do if i feel like fainting?,MILD,Lay the person down and raise their legs. Loosen tight clothing. Ensure fresh air and check breathing. Seek medical help if they don’t regain consciousness quickly or faint repeatedly.,Fainting,NO
+which medicine to take if i get a faint?,MILD,Lay the person down and raise their legs. Loosen tight clothing. Ensure fresh air and check breathing. Seek medical help if they don’t regain consciousness quickly or faint repeatedly.,Fainting,NO
+how to cure fainting?,MILD,Lay the person down and raise their legs. Loosen tight clothing. Ensure fresh air and check breathing. Seek medical help if they don’t regain consciousness quickly or faint repeatedly.,Fainting,NO
+i have fever and chills,MODERATE,"Check temperature, take paracetamol if above 100°F, drink fluids, rest.",fever,Paracetamol
+child has high fever and is shivering,SEVERE,"Check temperature, sponge with lukewarm water, seek doctor urgently, if temperature above 103Â°F",fever,Paracetamol
+i have mild fever since morning,MILD,"Rest, drink warm fluids, take paracetamol if above 100Â°F.",fever,Paracetamol
+child has high fever with rash all over body,SEVERE,"Seek immediate medical attention, could be serious infection.",fever,Paracetamol
+child has high fever but is responsive,MODERATE,"Give fever medicine as prescribed, sponge with lukewarm water, consult doctor.",fever,Paracetamol
+mild fever with tiredness,MILD,"Rest, drink warm fluids, monitor temperature.",fever,Paracetamol
+mild fever after vaccination,MILD,"Rest, drink water, take paracetamol if needed.",fever,Paracetamol
+high fever not reducing with medicine,SEVERE,Seek emergency medical care immediately,fever,Paracetamol
+"my child has fever and looks tired, what to do?",MODERATE,"Check temperature, give paracetamol if needed, keep hydrated, consult doctor if fever persists.",fever,Paracetamol
+iÂ’m feeling very cold and shivering with fever,MODERATE,"Cover with light blanket, drink warm fluids, check temperature, consult doctor.",fever,Paracetamol
+"my little brother has a slight fever, should i worry?",MILD,"Check temperature, give paracetamol if needed, keep hydrated.",fever,Paracetamol
+my fever is very high and iam shivering a lot,SEVERE,Seek emergency medical care immediately.,fever,Paracetamol
+my brother has a fever and is shivering,MODERATE,"Check temperature, give paracetamol if above 100F, keep hydrated, consult doctor.",fever,Paracetamol
+my fever is not going down even after tablets,SEVERE,Seek medical care immediately.,fever,Paracetamol
+how do you treat a mild fever?,MILD,"Drink plenty of fluids to stay hydrated.Use a light blanket if you feel chilled, until the chills end.Take tablets. Get medical help if the fever lasts more than five days in a row or if temperature increases.",fever,Paracetamol
+what to do if i get a mild fever?,MILD,"Drink plenty of fluids to stay hydrated.Use a light blanket if you feel chilled, until the chills end.Take tablets. Get medical help if the fever lasts more than five days in a row or if temperature increases.",fever,Paracetamol
+which medicine to take if i get a mild fever?,MILD,"Drink plenty of fluids to stay hydrated.Use a light blanket if you feel chilled, until the chills end.Take tablets. Get medical help if the fever lasts more than five days in a row or if temperature increases.",fever,Paracetamol
+fever,MILD,"Drink plenty of fluids to stay hydrated.Use a light blanket if you feel chilled, until the chills end.Take tablets. Get medical help if the fever lasts more than five days in a row or if temperature increases.",fever,Paracetamol
+"i fell down and have severe pain in my leg, can’t move it",SEVERE,"Immobilise leg, avoid movement, call for medical help immediately.",Fracture,NO
+severe pain in lower back after lifting heavy box,SEVERE,"Lie flat with knees bent, avoid movement, seek immediate medical help.",Fracture,NO
+severe swelling with intense pain in ankle,SEVERE,"Immobilise leg, seek emergency medical care, possible fracture.",Fracture,NO
+severe wrist pain with swelling and no movement,SEVERE,"Immobilise wrist, seek immediate medical help, possible fracture.",Fracture,NO
+severe knee pain with inability to stand,SEVERE,"Immobilise knee, seek emergency care, possible ligament or fracture injury.",Fracture,NO
+severe swollen finger with severe pain,SEVERE,"Immobilise finger, seek emergency care, possible fracture.",Fracture,NO
+severe ankle pain with inability to walk,SEVERE,"Immobilise, seek emergency care, possible fracture.",Fracture,NO
+how do you treat a fracture?,SEVERE,"Keep the injured part still. Splint it if trained, without moving the bone. Apply ice pack wrapped in cloth to reduce swelling. Seek medical help immediately. Do not try to straighten the bone.",Fracture,NO
+what to do if i get a fracture?,SEVERE,"Keep the injured part still. Splint it if trained, without moving the bone. Apply ice pack wrapped in cloth to reduce swelling. Seek medical help immediately. Do not try to straighten the bone.",Fracture,NO
+which medicine to take if i have a fracture?,SEVERE,"Keep the injured part still. Splint it if trained, without moving the bone. Apply ice pack wrapped in cloth to reduce swelling. Seek medical help immediately. Do not try to straighten the bone.",Fracture,NO
+how to cure a fracture?,SEVERE,"Keep the injured part still. Splint it if trained, without moving the bone. Apply ice pack wrapped in cloth to reduce swelling. Seek medical help immediately. Do not try to straighten the bone.",Fracture,NO
+how do you treat a frost bite?,MODERATE,"First move the person to a warm place, remove wet clothing, and gently warm the affected area with warm (not hot) water or body heat, avoiding rubbing or direct heat sources. Seek professional medical help as soon as possible for further treatment",Frost bite,NO
+what to do if i get a frost bite?,MODERATE,"First move the person to a warm place, remove wet clothing, and gently warm the affected area with warm (not hot) water or body heat, avoiding rubbing or direct heat sources. Seek professional medical help as soon as possible for further treatment",Frost bite,NO
+which medicine to take if i get a frost bite?,MODERATE,"First move the person to a warm place, remove wet clothing, and gently warm the affected area with warm (not hot) water or body heat, avoiding rubbing or direct heat sources. Seek professional medical help as soon as possible for further treatment",Frost bite,NO
+how to cure frost bite?,MODERATE,"First move the person to a warm place, remove wet clothing, and gently warm the affected area with warm (not hot) water or body heat, avoiding rubbing or direct heat sources. Seek professional medical help as soon as possible for further treatment",Frost bite,NO
+how do you treat gas problems?,MILD,"Apply a warm compress to the abdomen. Take antacids. Hydrate yourself. Seek medical help, if conditions persistfor more than 48 hours.",Omeprazole,NO
+what to do if i have gastrointestinal problems?,MODERATE,"Apply a warm compress to the abdomen. Take antacids. Hydrate yourself. Seek medical help, if conditions persistfor more than 48 hours.",Omeprazole,NO
+which medicine to take if i get gas problem?,MILD,"Apply a warm compress to the abdomen. Take antacids. Hydrate yourself. Seek medical help, if conditions persistfor more than 48 hours.",Omeprazole,NO
+how to cure gas problems?,MILD,"Apply a warm compress to the abdomen. Take antacids. Hydrate yourself. Seek medical help, if conditions persistfor more than 48 hours.",Omeprazole,NO
+i got hit on the head but no bleeding,MODERATE,"Apply ice pack, monitor for dizziness or vomiting, consult doctor if symptoms occur.",Head Injury,NO
+how do you treat a head injury?,MODERATE,"Keep the person still and upright or lying down. Apply a cold pack to reduce swelling. Monitor for drowsiness, vomiting, confusion, or worsening symptoms. Seek medical help immediately if severe pain, unconsciousness, or symptoms worsen.",Head Injury,NO
+what to do if i get a head injury?,MODERATE,"Keep the person still and upright or lying down. Apply a cold pack to reduce swelling. Monitor for drowsiness, vomiting, confusion, or worsening symptoms. Seek medical help immediately if severe pain, unconsciousness, or symptoms worsen.",Head Injury,NO
+which medicine to take if i get injured in the head?,MODERATE,"Keep the person still and upright or lying down. Apply a cold pack to reduce swelling. Monitor for drowsiness, vomiting, confusion, or worsening symptoms. Seek medical help immediately if severe pain, unconsciousness, or symptoms worsen.",Head Injury,NO
+how to cure head injury?,MODERATE,"Keep the person still and upright or lying down. Apply a cold pack to reduce swelling. Monitor for drowsiness, vomiting, confusion, or worsening symptoms. Seek medical help immediately if severe pain, unconsciousness, or symptoms worsen.",Head Injury,NO
+severe headache with vomiting,SEVERE,"Lie down in quiet room, hydrate, if persists or worsens seek medical help immediately.",Headache,Ibuprofen
+i have a bad headache after playing in the sun,MILD,"Drink water, rest in a cool place, take paracetamol if needed.",Headache,Ibuprofen
+severe headache with blurred vision,SEVERE,"Lie down in dark quiet room, seek medical help urgently.",Headache,Ibuprofen
+mild headache after studying long hours,MILD,"Rest eyes, drink water, take short nap if needed.",Headache,Ibuprofen
+headache after studying for long hours,MILD,"Rest eyes, drink water, take short break.",Headache,Ibuprofen
+severe headache with blurred vision,SEVERE,Seek emergency medical care immediately. Possible neurological issue.,Headache,Ibuprofen
+i have a headache after staring at my laptop all day,MILD,"Rest eyes, drink water, take a break from screen.",Headache,Ibuprofen
+iÂ’m having a severe headache with vomiting and blurred vision,SEVERE,Seek emergency medical care immediately.,Headache,Ibuprofen
+i have a headache since morning,MILD,"Drink water, rest in dark room, take paracetamol if needed.",Headache,Ibuprofen
+my headache is severe and iÂ’m seeing blurry,SEVERE,Seek emergency medical care immediately.,Headache,Ibuprofen
+how do you treat a mild headache?,MILD,"Give ibuprofen (Advil, Motrin), aspirin, or acetaminophen (Tylenol) for pain. Avoid ibuprofen and other NSAIDs if the person has heart failure or kidney failure. Do not give aspirin to a child under age 18.",Headache,Ibuprofen
+what to do if i get a mild headache?,MILD,"Give ibuprofen (Advil, Motrin), aspirin, or acetaminophen (Tylenol) for pain. Avoid ibuprofen and other NSAIDs if the person has heart failure or kidney failure. Do not give aspirin to a child under age 18.",Headache,Ibuprofen
+which medicine to take if i have a mild headache?,MILD,"Give ibuprofen (Advil, Motrin), aspirin, or acetaminophen (Tylenol) for pain. Avoid ibuprofen and other NSAIDs if the person has heart failure or kidney failure. Do not give aspirin to a child under age 18.",Headache,Ibuprofen
+how to cure a mild headache?,MILD,"Give ibuprofen (Advil, Motrin), aspirin, or acetaminophen (Tylenol) for pain. Avoid ibuprofen and other NSAIDs if the person has heart failure or kidney failure. Do not give aspirin to a child under age 18.",Headache,Ibuprofen
+severe chest pain and sweating,SEVERE,"Sit down, loosen tight clothing, call ambulance immediately.",heart attack,aspirin
+severe chest pain radiating to left arm,SEVERE,"Possible heart attack, call ambulance immediately, keep person calm and sitting upright.",heart attack,aspirin
+severe chest pain radiating to left arm,SEVERE,"Possible heart attack, call ambulance immediately.",heart attack,aspirin
+my chest pain is severe and spreading to arm,SEVERE,Seek emergency medical care immediately.,heart attack,aspirin
+"i feel dizzy, chest pain, and sweating a lot",SEVERE,"Possible heart attack, seek emergency medical care immediately.",heart attack,aspirin
+how do you treat heat exhaustion?,MILD,"Move to a cool place, lie down with legs raised, loosen clothes, sip water, cool with water/fan, and get medical help if no improvement.",Heat Exhaustion,ORS 
+what to do if i feel exhausted due to heat?,MILD,"Move to a cool place, lie down with legs raised, loosen clothes, sip water, cool with water/fan, and get medical help if no improvement.",Heat Exhaustion,ORS 
+which medicine to take if i get exhausted?,MILD,"Move to a cool place, lie down with legs raised, loosen clothes, sip water, cool with water/fan, and get medical help if no improvement.",Heat Exhaustion,ORS 
+how to cure heat exhaustion?,MILD,"Move to a cool place, lie down with legs raised, loosen clothes, sip water, cool with water/fan, and get medical help if no improvement.",Heat Exhaustion,ORS 
+how do you treat heat stroke?,SEVERE,"Move to a cool place, remove excess clothing, and cool the body quickly. Monitor closely.  Do not give fluids if unconscious or vomiting. Call emergency help immediately.",Heat Stroke,NO
+what to do if i get a heat stroke?,SEVERE,"Move to a cool place, remove excess clothing, and cool the body quickly. Monitor closely.  Do not give fluids if unconscious or vomiting. Call emergency help immediately.",Heat Stroke,NO
+which medicine to take if i get stroke?,SEVERE,"Move to a cool place, remove excess clothing, and cool the body quickly. Monitor closely.  Do not give fluids if unconscious or vomiting. Call emergency help immediately.",Heat Stroke,NO
+how to cure a heat stroke?,SEVERE,"Move to a cool place, remove excess clothing, and cool the body quickly. Monitor closely.  Do not give fluids if unconscious or vomiting. Call emergency help immediately.",Heat Stroke,NO
+bee sting on my hand,MILD,"Remove stinger, wash area, apply ice pack, use antihistamine cream for itching.",Insect Bites,Cetirizine
+"got bitten by an unknown insect, swelling increasing",MODERATE,"Wash with soap, apply ice pack, monitor for allergic reaction, seek doctor if worsens.",Insect Bites,Cetirizine
+swelling in throat after bee sting,SEVERE,"Severe allergic reaction, call ambulance immediately, keep person calm.",Insect Bites,Cetirizine
+mild itching on leg after insect bite,MILD,"Wash area, apply antihistamine cream, avoid scratching.",Insect Bites,Cetirizine
+mild bite mark from mosquito,MILD,"Apply antihistamine cream, avoid scratching.",Insect Bites,Cetirizine
+severe allergic reaction after insect bite,SEVERE,"Seek emergency care immediately, possible anaphylaxis.",Insect Bites,Cetirizine
+how do you treat a insect bite?,MILD,"Remove stinger if present, wash the area, apply cold pack, avoid scratching, and seek help if severe reaction occurs.",Insect Bites,Cetirizine
+what to do if a insect bites me?,MILD,"Remove stinger if present, wash the area, apply cold pack, avoid scratching, and seek help if severe reaction occurs.",Insect Bites,Cetirizine
+which medicine to take if i get bitten by a insect?,MILD,"Remove stinger if present, wash the area, apply cold pack, avoid scratching, and seek help if severe reaction occurs.",Insect Bites,Cetirizine
+how to cure insect bite?,MILD,"Remove stinger if present, wash the area, apply cold pack, avoid scratching, and seek help if severe reaction occurs.",Insect Bites,Cetirizine
+i feel like i can’t breathe and my heart is racing,MODERATE,"Sit down, take slow deep breaths, try to calm down, seek help if it continues.",mental health,NO
+i feel like i’m having a panic attack,MODERATE,"Focus on breathing slowly, sit in a quiet place, call a trusted person for help.",mental health,NO
+my friend is feeling very anxious and crying a lot,MILD,"Sit with them, speak calmly, offer water, let them express themselves.",mental health,NO
+my friend said they want to harm themselves,MODERATE,"Stay with them, do not leave alone, call trusted adult or emergency helpline immediately.",mental health,NO
+i feel extremely sad and don't want to do anything,MODERATE,"Talk to someone you trust today, go for a walk, seek professional counselling if it continues.",mental health,NO
+"i accidentally inhaled mosquito coil smoke, feeling dizzy",MILD,"Move to fresh air, drink water, rest, seek help if breathing difficulty occurs.",miscellaneus case,NO
+"i fell and hurt my wrist, swelling a bit",MODERATE,"Rest, apply ice pack, compress with bandage, elevate wrist. If pain persists, visit doctor",miscellaneus case,NO
+my back hurts after lifting heavy bag,MILD,"Rest, apply warm compress, avoid heavy lifting for a day.",miscellaneus case,NO
+severe back pain with numbness in legs,SEVERE,"Lie down flat, do not move unnecessarily, seek immediate medical help.",miscellaneus case,NO
+child vomited twice after eating cake,MODERATE,"Give sips of water, keep child sitting up, seek doctor if persists.",miscellaneus case,NO
+severe vomiting with no urination,SEVERE,"Risk of dehydration, give ORS if conscious, seek immediate medical help.",miscellaneus case,NO
+my friend fainted after seeing blood,MILD,"Lay them down, elevate legs, loosen clothing, they should recover quickly.",miscellaneus case,NO
+"i inhaled too much incense smoke, coughing",MILD,"Move to fresh air, drink water, rest.",miscellaneus case,NO
+i feel dizzy and lightheaded after skipping lunch,MILD,"Sit down, drink water or juice, eat a small snack.",miscellaneus case,NO
+i feel tingling in my fingers after lifting something heavy,MILD,"Rest hand, gently massage, avoid strain, see doctor if persists.",miscellaneus case,NO
+i have a blister on my heel from new shoes,MILD,"Do not burst blister, cover with plaster or blister pad, keep clean.",miscellaneus case,NO
+"i got insect bite on my neck, slight swelling",MILD,"Wash area, apply ice pack, antihistamine cream if needed.",miscellaneus case,NO
+mild ear pain since yesterday,MILD,"Warm compress, avoid poking inside, seek doctor if pain persists.",miscellaneus case,NO
+i have severe ear pain with fluid discharge,SEVERE,"Do not insert anything, seek immediate medical help.",miscellaneus case,NO
+child swallowed small toy,SEVERE,"Seek emergency help immediately, monitor breathing and choking.",miscellaneus case,NO
+i feel nauseous while travelling in bus,MILD,"Sit facing forward, sip water, look outside at a fixed point.",miscellaneus case,NO
+severe nausea with vomiting and dizziness,SEVERE,"Lie down, keep hydrated with ORS, seek immediate medical attention.",miscellaneus case,NO
+child fell from slide and has swelling on forehead,MODERATE,"Apply ice pack, monitor for vomiting or drowsiness, seek doctor if severe.",miscellaneus case,NO
+severe head injury with unconsciousness,SEVERE,"Call ambulance immediately, do not move person, check breathing.",miscellaneus case,NO
+"i inhaled cleaning liquid fumes, feeling dizzy",SEVERE,"Move to fresh air immediately, loosen clothing, seek medical help.",miscellaneus case,NO
+felt dizzy after standing up suddenly,MILD,"Sit down immediately, drink some water, rise slowly.",miscellaneus case,NO
+"child touched electric socket, unconscious",SEVERE,"Do not touch if still in contact, turn off power source, call ambulance immediately.",miscellaneus case,NO
+severe shortness of breath with wheezing,SEVERE,"Possible asthma attack, use inhaler if available, call ambulance immediately.",miscellaneus case,NO
+severe vomiting with inability to keep fluids down,SEVERE,"Possible dehydration, seek emergency medical care.",miscellaneus case,NO
+slight swelling in ankle after walking long distance,MILD,"Rest, elevate leg, apply ice pack.",miscellaneus case,NO
+mild pain in wrist after typing all day,MILD,"Rest wrist, do gentle stretches, avoid repetitive strain.",miscellaneus case,NO
+child fainted briefly but is awake now,MODERATE,"Lay child down, elevate legs, keep warm, seek medical evaluation if happens regularly",miscellaneus case,NO
+mild chest discomfort after spicy food,MILD,"Drink water, sit upright, monitor symptoms.",miscellaneus case,NO
+mild nausea while travelling in bus,MILD,"Sit facing forward, open window, take deep breaths.",miscellaneus case,NO
+severe vomiting with blood,SEVERE,Seek emergency medical help immediately.,miscellaneus case,NO
+mild ear pain after swimming,MILD,"Dry ear gently, avoid inserting anything, consult doctor if persists.",miscellaneus case,NO
+severe ear pain with pus discharge,SEVERE,"Seek medical help immediately, possible infection.",miscellaneus case,NO
+mild neck pain after sleeping wrong,MILD,"Apply warm compress, gentle stretching.",miscellaneus case,NO
+severe neck pain with inability to move,SEVERE,"Immobilise neck, seek emergency medical help immediately.",miscellaneus case,NO
+mild stomach ache after eating oily food,MILD,"Drink warm water, rest, avoid heavy food.",miscellaneus case,NO
+severe abdominal pain with swelling,SEVERE,Seek immediate medical attention. Possible internal issue.,miscellaneus case,NO
+mild pain in knee after kneeling,MILD,"Rest, elevate leg, apply ice pack.",miscellaneus case,NO
+mild tingling in fingers after typing,MILD,"Rest hands, stretch fingers gently.",miscellaneus case,NO
+severe numbness and weakness in arm,SEVERE,"Seek emergency care immediately, possible stroke or nerve injury.",miscellaneus case,NO
+mild shortness of breath after running,MILD,"Rest, breathe slowly, drink water.",miscellaneus case,NO
+severe shortness of breath while resting,SEVERE,Seek emergency medical care immediately.,miscellaneus case,NO
+mild backache after lifting books,MILD,"Rest, apply warm compress, avoid heavy lifting for the day.",miscellaneus case,NO
+severe back pain with leg weakness,SEVERE,"Seek emergency care, possible nerve compression.",miscellaneus case,NO
+slight toothache after eating sweets,MILD,"Rinse mouth with warm salt water, avoid very cold/hot foods, consult dentist if persists.",miscellaneus case,NO
+nose irritation after cleaning room,MILD,"Rinse nose gently with water, rest.",miscellaneus case,NO
+mild dizziness after standing up quickly,MILD,"Sit or lie down, drink water, rise slowly next time.",miscellaneus case,NO
+severe dizziness with vomiting,SEVERE,"Seek emergency medical care, possible neurological issue.",miscellaneus case,NO
+nausea after eating outside food,MILD,"Drink ORS, eat light food, rest.",miscellaneus case,NO
+pain at injection site,MILD,"Apply cold compress, rest arm.",miscellaneus case,NO
+mild throat pain after singing,MILD,"Drink warm water, avoid shouting, rest voice.",miscellaneus case,NO
+severe throat pain with difficulty breathing,SEVERE,Seek emergency medical care immediately.,miscellaneus case,NO
+mild finger pain after playing cricket,MILD,"Apply ice pack, rest finger.",miscellaneus case,NO
+mild feeling of tiredness after exam,MILD,"Drink water, eat healthy snack, rest.",miscellaneus case,NO
+severe fatigue with chest pain,SEVERE,Seek emergency medical care immediately.,miscellaneus case,NO
+"my brother fell and hit his head really hard, what now?",SEVERE,"Keep him lying down, don’t move his neck, call ambulance immediately.",miscellaneus case,NO
+my leg feels sore after walking a lot today,MILD,"Rest leg, massage gently, drink water.",miscellaneus case,NO
+"i twisted my ankle and it hurts to stand, what do i do?",MODERATE,"Rest, apply ice pack, elevate foot, consult doctor if swelling persists.",miscellaneus case,NO
+"my chest hurts a little when i walk fast, is it serious?",SEVERE,"Stop activity, sit down, if pain continues or worsens seek emergency medical care immediately.",miscellaneus case,NO
+i feel dizzy after skipping lunch today,MILD,"Sit down, drink water or juice, eat something light.",miscellaneus case,NO
+"iÂ’m feeling very faint and sweating a lot, whatÂ’s happening?",SEVERE,"Lie down with legs raised, loosen tight clothing, seek emergency help if symptoms persist.",miscellaneus case,NO
+"my grandpa is unconscious and not waking up, what do i do now?",SEVERE,"Call ambulance immediately, check breathing, perform CPR if needed.",miscellaneus case,NO
+my stomach hurts a little after eating street food,MILD,"Drink ORS, eat light food, rest.",miscellaneus case,NO
+"iÂ’ve been vomiting continuously since morning, what now?",SEVERE,"Drink ORS if able, seek emergency care immediately for dehydration risk.",miscellaneus case,NO
+"my friend is having trouble breathing after a bee sting, what to do?",SEVERE,"Call ambulance immediately, use epipen if available.",miscellaneus case,NO
+"i scraped my elbow while falling off my bike, is it okay?",MILD,"Wash wound with water, apply antiseptic, cover with gauze or bandaid.",miscellaneus case,NO
+"there,s a lot of blood coming out from his nose after falling, help!",SEVERE,"Pinch nose, lean forward, apply ice pack on nose bridge, seek emergency care immediately.",miscellaneus case,NO
+i feel breathless after climbing stairs quickly,MILD,"Sit down, take deep breaths slowly, rest for a while.",miscellaneus case,NO
+"i canÂ’t breathe properly, my chest is very tight",SEVERE,"Call ambulance immediately, loosen tight clothing, stay calm.",miscellaneus case,NO
+"i stepped on a rusty nail, what do i do now?",SEVERE,"Wash wound under clean water, don’t scrub deep, seek emergency care for tetanus risk.",miscellaneus case,NO
+my ear hurts a bit after swimming today,MILD,"Dry ear gently, avoid poking with earbuds, consult doctor if pain persists.",miscellaneus case,NO
+"my younger sister swallowed a coin, what should we do?",SEVERE,"Seek emergency medical care immediately, don’t induce vomiting.",miscellaneus case,NO
+"i feel nauseous and weak, could it be dehydration?",MILD,"Drink ORS or water with salt and sugar, rest.",miscellaneus case,NO
+"i fainted after standing up suddenly, what does it mean?",MODERATE,"Sit or lie down, drink water, consult doctor if it repeats.",miscellaneus case,NO
+my knee is swollen and i canÂ’t bend it after falling,SEVERE,"Keep knee straight, apply ice pack, seek emergency care immediately.",miscellaneus case,NO
+my stomach pain is unbearable and i have blood in vomit,SEVERE,Seek emergency medical care immediately.,miscellaneus case,NO
+i feel a little dizzy when i stand up suddenly,MILD,"Sit or lie down for a minute, drink water slowly.",miscellaneus case,NO
+"my sister fainted after feeling very weak, what should i do?",SEVERE,"Lay her flat, elevate legs, check breathing, call ambulance if she doesnÂ’t wake quickly.",miscellaneus case,NO
+my arm hurts so much i canÂ’t move it after falling,SEVERE,"Immobilise arm, support with cloth sling, seek emergency care immediately.",miscellaneus case,NO
+"i got bitten by a mosquito, itÂ’s just itching",MILD,Apply antihistamine cream to reduce itch.,miscellaneus case,NO
+i got stung by a bee and itÂ’s swollen badly,SEVERE,"Remove sting gently if visible, apply ice pack, seek emergency care if difficulty breathing.",miscellaneus case,NO
+my stomach hurts after eating spicy food,MILD,"Drink cool water, rest, avoid spicy food till pain reduces.",miscellaneus case,NO
+i feel nauseous after eating from outside today,MILD,"Drink ORS or water, eat light food, rest.",miscellaneus case,NO
+my stomach pain is severe with vomiting blood,SEVERE,Seek emergency care immediately.,miscellaneus case,NO
+"i hit my head and feel dizzy, should i sleep?",SEVERE,Seek medical care immediately before sleeping to rule out concussion.,miscellaneus case,NO
+my knee has a small scratch after falling,MILD,"Wash with water, apply antiseptic, cover with bandaid if needed.",miscellaneus case,NO
+thereÂ’s swelling on my ankle after tripping on stairs,MODERATE,"Apply ice pack, keep foot elevated, wrap with elastic bandage, consult doctor.",miscellaneus case,NO
+my friend collapsed suddenly and isnÂ’t waking up,SEVERE,"Check breathing, call ambulance immediately, start CPR if needed.",miscellaneus case,NO
+i can't breathe properly and chest hurts badly,SEVERE,"Call ambulance immediately, stay seated upright, loosen tight clothes.",miscellaneus case,NO
+my eye is injured and vision is blurry,SEVERE,"Cover eye with clean cloth, donÂ’t press it, seek emergency care.",miscellaneus case,NO
+i feel very weak and my hands are shaking,MODERATE,"Sit down, drink juice or ORS, consult doctor if it continues.",miscellaneus case,NO
+"i feel like fainting, i canÂ’t stand properly",SEVERE,"Lie down with legs raised, seek emergency care immediately.",miscellaneus case,NO
+my back hurts after lifting heavy bags,MODERATE,"Rest back, apply warm compress, consult doctor if pain increases.",miscellaneus case,NO
+my neck is very stiff and painful suddenly,MODERATE,"Rest neck, avoid sudden movements, consult doctor if pain worsens.",miscellaneus case,NO
+"i twisted my knee while running, it hurts a lot",MODERATE,"Rest, apply ice, keep elevated, consult doctor if swelling increases.",miscellaneus case,NO
+my ankle is turning blue and i canÂ’t put weight on it,SEVERE,"Immobilise ankle, keep elevated, seek emergency care immediately.",miscellaneus case,NO
+i feel very tired and my head is spinning,MODERATE,"Sit down, drink water, rest, consult doctor if it continues.",miscellaneus case,NO
+there’s a small blister on my foot from my shoes,MILD,"Clean area, cover with blister pad or plaster.",miscellaneus case,NO
+my blister burst and itÂ’s painful,MODERATE,"Clean with antiseptic, cover with sterile dressing, keep dry.",miscellaneus case,NO
+i have a rash on my hand after using soap,MILD,"Wash with clean water, apply moisturiser or mild antihistamine cream.",miscellaneus case,NO
+my rash is spreading and itching badly,MODERATE,"Apply antihistamine cream, consult doctor if it worsens.",miscellaneus case,NO
+i accidentally touched a hot pan and my hand is red,MILD,"Cool under running water for 10 mins, donÂ’t apply ice, cover if needed.",miscellaneus case,NO
+i swallowed a small fish bone and it hurts,MODERATE,"Eat rice or soft bread to push it down, consult doctor if pain persists.",miscellaneus case,NO
+i canÂ’t breathe properly after swallowing something,SEVERE,"Call ambulance immediately, perform abdominal thrusts if choking.",miscellaneus case,NO
+"i think i have food poisoning, my stomach hurts so much",MODERATE,"Drink ORS, rest, consult doctor if vomiting continues.",miscellaneus case,NO
+my vomit has blood in it,SEVERE,Seek emergency medical care immediately.,miscellaneus case,NO
+my son just fell down and scraped his elbow,MILD,"Clean wound with water, apply antiseptic, cover with bandaid if needed.",miscellaneus case,NO
+his elbow is swollen and heÂ’s crying a lot,SEVERE,"Immobilise elbow, apply ice pack, seek emergency care.",miscellaneus case,NO
+my dad is having chest pain and sweating badly,SEVERE,"Call ambulance immediately, keep him seated upright, loosen tight clothes.",miscellaneus case,NO
+i twisted my wrist while playing cricket,MODERATE,"Rest wrist, apply ice pack, wrap with elastic bandage, consult doctor.",miscellaneus case,NO
+my wrist is swollen and i canÂ’t move it,SEVERE,"Immobilise wrist, keep elevated, seek emergency care.",miscellaneus case,NO
+my friend is having an asthma attack,SEVERE,"Help them sit upright, use inhaler immediately, call ambulance if not improving.",miscellaneus case,NO
+i feel tightness in my chest after running,MODERATE,"Sit down, take deep breaths, drink water, consult doctor if it continues.",miscellaneus case,NO
+i have a small insect bite on my arm,MILD,"Wash with soap and water, apply antihistamine cream.",miscellaneus case,NO
+i was bitten by something and my throat feels tight,SEVERE,Seek emergency medical care immediately for possible allergic reaction.,miscellaneus case,NO
+my eye is red and itchy after dust went in,MILD,"Rinse with clean water, avoid rubbing, consult doctor if irritation continues.",miscellaneus case,NO
+my eye is painful and vision is getting blurry,SEVERE,"Cover eye with clean cloth, seek emergency care immediately.",miscellaneus case,NO
+i feel faint and my vision is going black,SEVERE,"Sit or lie down immediately, elevate legs, seek emergency care.",miscellaneus case,NO
+"my tooth is paining a lot, what do i do?",MODERATE,"Rinse mouth with warm salt water, take painkiller if needed, consult dentist.",miscellaneus case,NO
+my tooth broke after falling down,SEVERE,"Rinse mouth gently, keep broken piece in milk, seek emergency dental care immediately.",miscellaneus case,NO
+i feel dizzy after standing up suddenly,MILD,"Sit down immediately, drink water, rise slowly next time.",miscellaneus case,NO
+"i stepped on a nail, what do i do",SEVERE,"Clean wound, cover with sterile dressing, seek medical care for tetanus shot.",miscellaneus case,NO
+my stomach hurts after eating street food,MILD,"Drink warm water, rest, eat light food, monitor symptoms.",miscellaneus case,NO
+i have loose motion since morning,MODERATE,"Drink ORS to stay hydrated, consult doctor if it continues.",miscellaneus case,NO
+there is blood in my stools,SEVERE,Seek emergency medical care immediately.,miscellaneus case,NO
+i touched a hot vessel and my finger is red,MILD,"Cool under running water for 10 mins, cover if needed.",miscellaneus case,NO
+i feel like fainting in the sun,MODERATE,"Move to shade, drink water, lie down with legs elevated.",miscellaneus case,NO
+my friend fainted and isn’t waking up,SEVERE,"Check breathing, call ambulance immediately.",miscellaneus case,NO
+"i banged my knee against the table, it hurts",MILD,"Rest leg, apply ice pack for 10 mins, elevate if swollen.",miscellaneus case,NO
+my knee is swollen and i can’t stand,SEVERE,"Immobilise leg, keep elevated, seek emergency care.",miscellaneus case,NO
+my neck hurts after sleeping wrong,MILD,"Gently stretch neck, apply warm compress, rest.",miscellaneus case,NO
+my neck pain is severe and i feel tingling,SEVERE,Seek emergency medical care immediately.,miscellaneus case,NO
+"i can’t swallow at all, it hurts badly",SEVERE,Seek emergency medical care immediately.,miscellaneus case,NO
+i got pricked by a thorn in the garden,MILD,"Wash area, remove thorn with sterilised tweezer, apply antiseptic.",miscellaneus case,NO
+the thorn is deep and i can’t remove it,MODERATE,"Do not push further, consult doctor for removal.",miscellaneus case,NO
+my chest feels tight after climbing stairs,MODERATE,"Sit down, rest, take deep breaths, consult doctor if it continues.",miscellaneus case,NO
+how do you treat nasal congestion?,MILD,Drink plenty of fluids. Take a hot shower or inhale steam. Saline nasal spray optional. If persists more than 10 days seek doctor.,Nasal Congestion,Pseudoephedrine
+what to do if i get a nasal congestion?,MILD,Drink plenty of fluids. Take a hot shower or inhale steam. Saline nasal spray optional. If persists more than 10 days seek doctor.,Nasal Congestion,Pseudoephedrine
+which medicine to take if i have a nasal congestion?,MILD,Drink plenty of fluids. Take a hot shower or inhale steam. Saline nasal spray optional. If persists more than 10 days seek doctor.,Nasal Congestion,Pseudoephedrine
+what to do if i have a blocked nose?,MILD,Drink plenty of fluids. Take a hot shower or inhale steam. Saline nasal spray optional. If persists more than 10 days seek doctor.,Nasal Congestion,Pseudoephedrine
+how do you treat a blocked nose?,MILD,Drink plenty of fluids. Take a hot shower or inhale steam. Saline nasal spray optional. If persists more than 10 days seek doctor.,Nasal Congestion,Pseudoephedrine
+how long does nasal congestion last?,MILD,Drink plenty of fluids. Take a hot shower or inhale steam. Saline nasal spray optional. If persists more than 10 days seek doctor.,Nasal Congestion,Pseudoephedrine
+how do you treat bleeding?,MILD,Apply pressure with clean cloth to stop bleeding. Clean the wound with water. Apply antiseptic. Cover with a sterile bandage. Seek medical help if bleeding doesn’t stop or wound is deep.,Normal Bleeding,NO
+what to do if i get a bleeding?,MILD,Apply pressure with clean cloth to stop bleeding. Clean the wound with water. Apply antiseptic. Cover with a sterile bandage. Seek medical help if bleeding doesn’t stop or wound is deep.,Normal Bleeding,NO
+which medicine to take if i get bleeding?,MILD,Apply pressure with clean cloth to stop bleeding. Clean the wound with water. Apply antiseptic. Cover with a sterile bandage. Seek medical help if bleeding doesn’t stop or wound is deep.,Normal Bleeding,NO
+how to cure bleeding?,MILD,Apply pressure with clean cloth to stop bleeding. Clean the wound with water. Apply antiseptic. Cover with a sterile bandage. Seek medical help if bleeding doesn’t stop or wound is deep.,Normal Bleeding,NO
+my nose is bleeding,MILD,"Pinch soft part of nose, lean forward, breathe through mouth, hold for 10 mins.",Nose bleed,NO
+severe nosebleed not stopping after 20 mins,SEVERE,"Pinch nose, lean forward, seek immediate medical help.",Nose bleed,NO
+i have a small nosebleed after blowing nose hard,MILD,"Pinch nose, lean forward, apply cold compress on nose bridge.",Nose bleed,NO
+severe nosebleed not stopping after 20 mins,SEVERE,"Pinch nose, lean forward, seek emergency medical help.",Nose bleed,NO
+how do you treat a bleeding nose?,MILD,"Sit up and lean forward, pinch nose 10–15 mins, apply cold pack, seek medical help if bleeding hasn’t stopped after 20 minutes.",Nose bleed,NO
+what to do if i my nose is bleeding?,MILD,"Sit up and lean forward, pinch nose 10–15 mins, apply cold pack, seek medical help if bleeding hasn’t stopped after 20 minutes.",Nose bleed,NO
+which medicine to take if i get nose bleed?,MILD,"Sit up and lean forward, pinch nose 10–15 mins, apply cold pack, seek medical help if bleeding hasn’t stopped after 20 minutes.",Nose bleed,NO
+how to cure nose bleeding?,MILD,"Sit up and lean forward, pinch nose 10–15 mins, apply cold pack, seek medical help if bleeding hasn’t stopped after 20 minutes.",Nose bleed,NO
+how do you treat a poison?,SEVERE,"Call emergency/poison control, don’t induce vomiting, rinse if on skin, go to fresh air if inhaled.",Poison,NO
+what to do if i get poison?,SEVERE,"Call emergency/poison control, don’t induce vomiting, rinse if on skin, go to fresh air if inhaled.",Poison,NO
+which medicine to take if i am poisoned?,SEVERE,"Call emergency/poison control, don’t induce vomiting, rinse if on skin, go to fresh air if inhaled.",Poison,NO
+how to cure poisoning?,SEVERE,"Call emergency/poison control, don’t induce vomiting, rinse if on skin, go to fresh air if inhaled.",Poison,NO
+how do you treat a pulled muscle?,MODERATE,Rest the muscle. Apply ice for 15–20 mins every few hours. Compress with a bandage if needed. Elevate if possible. Seek medical help if severe pain or swelling.,Pulled Muscle,Ibuprofen
+what to do if my muscle is pulled?,MODERATE,Rest the muscle. Apply ice for 15–20 mins every few hours. Compress with a bandage if needed. Elevate if possible. Seek medical help if severe pain or swelling.,Pulled Muscle,Ibuprofen
+which medicine to take if i got pulled muscle?,MODERATE,Rest the muscle. Apply ice for 15–20 mins every few hours. Compress with a bandage if needed. Elevate if possible. Seek medical help if severe pain or swelling.,Pulled Muscle,Ibuprofen
+how to cure a pulled muscle?,MODERATE,Rest the muscle. Apply ice for 15–20 mins every few hours. Compress with a bandage if needed. Elevate if possible. Seek medical help if severe pain or swelling.,Pulled Muscle,Ibuprofen
+rash after using new soap,MILD,"Wash off soap, apply moisturiser, avoid scratching.",Rash,NO
+severe rash with swelling of lips and eyes,SEVERE,"Possible severe allergy, seek emergency care immediately.",Rash,NO
+itchy red rash all over body,MODERATE,"Apply calamine lotion, take antihistamine, visit doctor if spreading.",Rash,NO
+how do you treat rashes?,MILD,"Wash the area with mild soap and water. Apply cool compress to reduce itching. Avoid scratching. Use antihistamine or soothing lotion if needed. Seek medical help if rash spreads, is painful, or with fever.",Rash,Cetirizine
+what to do if i get a rash?,MILD,"Wash the area with mild soap and water. Apply cool compress to reduce itching. Avoid scratching. Use antihistamine or soothing lotion if needed. Seek medical help if rash spreads, is painful, or with fever.",Rash,Cetirizine
+which medicine to take if i have a rash?,MILD,"Wash the area with mild soap and water. Apply cool compress to reduce itching. Avoid scratching. Use antihistamine or soothing lotion if needed. Seek medical help if rash spreads, is painful, or with fever.",Rash,Cetirizine
+how to cure rash?,MILD,"Wash the area with mild soap and water. Apply cool compress to reduce itching. Avoid scratching. Use antihistamine or soothing lotion if needed. Seek medical help if rash spreads, is painful, or with fever.",Rash,Cetirizine
+how do you treat rectal bleeding?,SEVERE,"Stay calm and note the amount and color of blood. Avoid straining if having a bowel movement. Seek medical help immediately if bleeding is heavy, persistent, or with pain, dizziness, or weakness.",Rectal bleeding,NO
+what to do if i get a rectal bleeding?,SEVERE,"Stay calm and note the amount and color of blood. Avoid straining if having a bowel movement. Seek medical help immediately if bleeding is heavy, persistent, or with pain, dizziness, or weakness.",Rectal bleeding,NO
+which medicine to take if i get rectal bleeding?,SEVERE,"Stay calm and note the amount and color of blood. Avoid straining if having a bowel movement. Seek medical help immediately if bleeding is heavy, persistent, or with pain, dizziness, or weakness.",Rectal bleeding,NO
+how to cure rectal bleeding?,SEVERE,"Stay calm and note the amount and color of blood. Avoid straining if having a bowel movement. Seek medical help immediately if bleeding is heavy, persistent, or with pain, dizziness, or weakness.",Rectal bleeding,NO
+how do you treat a seizure?,MODERATE,"Stay calm and keep the person safe. Do not restrain them or put anything in their mouth. Turn them onto their side after the seizure ends. Time the seizure. Call emergency help if it lasts >5 mins, they don’t wake up, or have trouble breathing.",seizure,Phenytoin
+what to do if i get a seizure?,MODERATE,"Stay calm and keep the person safe. Do not restrain them or put anything in their mouth. Turn them onto their side after the seizure ends. Time the seizure. Call emergency help if it lasts >5 mins, they don’t wake up, or have trouble breathing.",seizure,Phenytoin
+which medicine to take if i get seizure?,MODERATE,"Stay calm and keep the person safe. Do not restrain them or put anything in their mouth. Turn them onto their side after the seizure ends. Time the seizure. Call emergency help if it lasts >5 mins, they don’t wake up, or have trouble breathing.",seizure,Phenytoin
+how to cure seizure?,MODERATE,"Stay calm and keep the person safe. Do not restrain them or put anything in their mouth. Turn them onto their side after the seizure ends. Time the seizure. Call emergency help if it lasts >5 mins, they don’t wake up, or have trouble breathing.",seizure,Phenytoin
+how do you treat skin problems?,MILD,Hydrocortisone cream. Ointments like calamine lotion. Antihistamines. Cold compresses. Seek medical help if situation persists or worsens.,Skin problems,NO
+what to do if i get a skin allergy?,MILD,Hydrocortisone cream. Ointments like calamine lotion. Antihistamines. Cold compresses. Seek medical help if situation persists or worsens.,Skin problems,NO
+which medicine to take if i get a skin allergy?,MILD,Hydrocortisone cream. Ointments like calamine lotion. Antihistamines. Cold compresses. Seek medical help if situation persists or worsens.,Skin problems,NO
+how to cure skin allergy?,MILD,Hydrocortisone cream. Ointments like calamine lotion. Antihistamines. Cold compresses. Seek medical help if situation persists or worsens.,Skin problems,NO
+how do you treat a snake bite?,SEVERE,Keep the person calm and still. Keep the bitten limb below heart level. Do not suck or cut the bite. Call emergency services immediately. Remove tight clothing or jewellery near the bite.,snake bite,NO
+what to do if i get a snake bite?,SEVERE,Keep the person calm and still. Keep the bitten limb below heart level. Do not suck or cut the bite. Call emergency services immediately. Remove tight clothing or jewellery near the bite.,snake bite,NO
+which medicine to take if i get a snake bite?,SEVERE,Keep the person calm and still. Keep the bitten limb below heart level. Do not suck or cut the bite. Call emergency services immediately. Remove tight clothing or jewellery near the bite.,snake bite,NO
+how to cure snake bite?,SEVERE,Keep the person calm and still. Keep the bitten limb below heart level. Do not suck or cut the bite. Call emergency services immediately. Remove tight clothing or jewellery near the bite.,snake bite,NO
+i got bit by a snake,SEVERE,Keep the person calm and still. Keep the bitten limb below heart level. Do not suck or cut the bite. Call emergency services immediately. Remove tight clothing or jewellery near the bite.,snake bite,NO
+my throat feels sore and hurts when swallowing,MILD,"Drink warm fluids, gargle with salt water, rest voice.",Sore Throat,NO
+how do you treat sore throat?,MILD,Drink a lot of fluids. Inhale steam. Drink hot drinks with honey. Take over the counter medicine to relieve discomfort. Seek doctor if persists more than 4 days.,Sore Throat,NO
+what to do if i get a sore throat?,MILD,Drink a lot of fluids. Inhale steam. Drink hot drinks with honey. Take over the counter medicine to relieve discomfort. Seek doctor if persists more than 4 days.,Sore Throat,NO
+which medicine to take if i get a sore throat?,MILD,Drink a lot of fluids. Inhale steam. Drink hot drinks with honey. Take over the counter medicine to relieve discomfort. Seek doctor if persists more than 4 days.,Sore Throat,NO
+how to cure sore throat?,MILD,Drink a lot of fluids. Inhale steam. Drink hot drinks with honey. Take over the counter medicine to relieve discomfort. Seek doctor if persists more than 4 days.,Sore Throat,NO
+small splinter in my finger,MILD,"Remove with clean tweezers, wash area, apply antiseptic.",splinter,NO
+small splinter stuck in finger,MILD,"Remove with sterilized tweezer, wash with soap and water, apply antiseptic.",splinter,NO
+how to remove splinters,MILD,"1. SOAK IT IN EPSOM SALTS. Dissolve a cup of the salts into a warm bath and soak whatever part of the body has the splinter. Failing that, you can also put some of the salts onto a bandage pad and leave it covered for a day; this will eventually help bring the splinter to the surface. 2. VINEGAR OR OIL. Another simple way to draw out that stubborn splinter is to soak the affected area in oil (olive or corn) or white vinegar. Just pour some in a bowl and soak the area for around 20 to 30 minutes,",splinter,NO
+how to cure splinters?,MILD,"1. SOAK IT IN EPSOM SALTS. Dissolve a cup of the salts into a warm bath and soak whatever part of the body has the splinter. Failing that, you can also put some of the salts onto a bandage pad and leave it covered for a day; this will eventually help bring the splinter to the surface. 2. VINEGAR OR OIL. Another simple way to draw out that stubborn splinter is to soak the affected area in oil (olive or corn) or white vinegar. Just pour some in a bowl and soak the area for around 20 to 30 minutes,",splinter,NO
+what to do if i have splinters?,MILD,"1. SOAK IT IN EPSOM SALTS. Dissolve a cup of the salts into a warm bath and soak whatever part of the body has the splinter. Failing that, you can also put some of the salts onto a bandage pad and leave it covered for a day; this will eventually help bring the splinter to the surface. 2. VINEGAR OR OIL. Another simple way to draw out that stubborn splinter is to soak the affected area in oil (olive or corn) or white vinegar. Just pour some in a bowl and soak the area for around 20 to 30 minutes,",splinter,NO
+how do you bring a splinter to the surface?,MILD,"1. SOAK IT IN EPSOM SALTS. Dissolve a cup of the salts into a warm bath and soak whatever part of the body has the splinter. Failing that, you can also put some of the salts onto a bandage pad and leave it covered for a day; this will eventually help bring the splinter to the surface. 2. VINEGAR OR OIL. Another simple way to draw out that stubborn splinter is to soak the affected area in oil (olive or corn) or white vinegar. Just pour some in a bowl and soak the area for around 20 to 30 minutes,",splinter,NO
+bad muscle cramps after running,MODERATE,"Stretch gently, massage muscle, drink water with electrolytes.",Sprain,NO
+i twisted my knee while playing football,MODERATE,"Rest, ice pack, compress with elastic bandage, elevate leg.",Sprain,NO
+sprained my ankle while running,MODERATE,"Rest, ice, compress with elastic bandage, elevate leg.",Sprain,NO
+i twisted my finger while playing volleyball,MODERATE,"Apply ice pack, buddy tape to adjacent finger, seek doctor if severe pain.",Sprain,NO
+mild pain in ankle after twisting,MILD,"Rest, ice pack, elevate leg.",Sprain,NO
+i think i sprained my wrist while lifting something heavy,MODERATE,"Rest wrist, apply ice pack, wrap with elastic bandage, consult doctor if pain persists.",Sprain,NO
+i twisted my ankle while running,MODERATE,"Rest, apply ice pack, compress with elastic bandage, elevate the leg.",Sprain,NO
+how do you treat a sprain?,MILD,"Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat every two to three hours while you're awake. To help stop swelling, compress the ankle with an elastic bandage until the swelling stops. In most cases, pain relievers such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve, others) or acetaminophen (Tylenol, others) are enough to manage the pain of a sprained ankle.",Sprain,NO
+what to do if i get a sprain?,MILD,"Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat every two to three hours while you're awake. To help stop swelling, compress the ankle with an elastic bandage until the swelling stops. In most cases, pain relievers such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve, others) or acetaminophen (Tylenol, others) are enough to manage the pain of a sprained ankle.",Sprain,NO
+which cream to apply if i get a sprain?,MILD,"Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat every two to three hours while you're awake. To help stop swelling, compress the ankle with an elastic bandage until the swelling stops. In most cases, pain relievers such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve, others) or acetaminophen (Tylenol, others) are enough to manage the pain of a sprained ankle.",Sprain,NO
+which medicine to apply if i get a sprain?,MILD,"Use an ice pack or ice slush bath immediately for 15 to 20 minutes and repeat every two to three hours while you're awake. To help stop swelling, compress the ankle with an elastic bandage until the swelling stops. In most cases, pain relievers such as ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve, others) or acetaminophen (Tylenol, others) are enough to manage the pain of a sprained ankle.",Sprain,NO
+how do you treat sting?,MILD,"Remove any stingers immediately. Some experts recommend scraping out the stinger with a credit card. Applying ice to the site may provide some mild relief. Apply ice for 20 minutes once every hour as needed. Wrap the ice in a towel or keep a cloth between the ice and skin to keep from freezing the skin. Taking an antihistamine such as diphenhydramine (Benadryl) or a nonsedating one such as loratadine (Claritin) will help with itching and swelling. Take acetaminophen (Tylenol) or ibuprofen (Motrin)for pain relief as needed. Wash the sting site with soap and water. Placing hydrocortisone cream on the sting can help relieve redness, itching, and swelling.",stings,NO
+stings,MILD,"Remove any stingers immediately. Some experts recommend scraping out the stinger with a credit card. Applying ice to the site may provide some mild relief. Apply ice for 20 minutes once every hour as needed. Wrap the ice in a towel or keep a cloth between the ice and skin to keep from freezing the skin. Taking an antihistamine such as diphenhydramine (Benadryl) or a nonsedating one such as loratadine (Claritin) will help with itching and swelling. Take acetaminophen (Tylenol) or ibuprofen (Motrin)for pain relief as needed. Wash the sting site with soap and water. Placing hydrocortisone cream on the sting can help relieve redness, itching, and swelling.",stings,NO
+what to do if you get a sting?,MILD,"Remove any stingers immediately. Some experts recommend scraping out the stinger with a credit card. Applying ice to the site may provide some mild relief. Apply ice for 20 minutes once every hour as needed. Wrap the ice in a towel or keep a cloth between the ice and skin to keep from freezing the skin. Taking an antihistamine such as diphenhydramine (Benadryl) or a nonsedating one such as loratadine (Claritin) will help with itching and swelling. Take acetaminophen (Tylenol) or ibuprofen (Motrin)for pain relief as needed. Wash the sting site with soap and water. Placing hydrocortisone cream on the sting can help relieve redness, itching, and swelling.",stings,NO
+which medicine to apply if sting?,MILD,"Remove any stingers immediately. Some experts recommend scraping out the stinger with a credit card. Applying ice to the site may provide some mild relief. Apply ice for 20 minutes once every hour as needed. Wrap the ice in a towel or keep a cloth between the ice and skin to keep from freezing the skin. Taking an antihistamine such as diphenhydramine (Benadryl) or a nonsedating one such as loratadine (Claritin) will help with itching and swelling. Take acetaminophen (Tylenol) or ibuprofen (Motrin)for pain relief as needed. Wash the sting site with soap and water. Placing hydrocortisone cream on the sting can help relieve redness, itching, and swelling.",stings,NO
+how do you treat a strain?,MILD,"Rest,Ice,Compression and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also Apply ice immediately after injuring your muscle. This will minimize swelling. DonÃ¢â‚¬â„¢t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down.",Strains,NO
+what to do if i get a strain?,MILD,"Rest,Ice,Compression and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also Apply ice immediately after injuring your muscle. This will minimize swelling. DonÃ¢â‚¬â„¢t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down.",Strains,NO
+which cream to apply if i get a strain?,MILD,"Rest,Ice,Compression and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also Apply ice immediately after injuring your muscle. This will minimize swelling. DonÃ¢â‚¬â„¢t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down.",Strains,NO
+which medicine to apply if i get a strain?,MILD,"Rest,Ice,Compression and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also Apply ice immediately after injuring your muscle. This will minimize swelling. DonÃ¢â‚¬â„¢t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down.",Strains,NO
+how do you diagnose a strain?,MILD,"Rest,Ice,Compression and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also Apply ice immediately after injuring your muscle. This will minimize swelling. DonÃ¢â‚¬â„¢t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down.",Strains,NO
+is heat or ice better for a pulled muscle?,MILD,"Rest,Ice,Compression and Elevation can be used to cure strains. Avoid using your muscle for a few days, especially if movement causes an increase in pain and also Apply ice immediately after injuring your muscle. This will minimize swelling. DonÃ¢â‚¬â„¢t put ice directly on your skin. Use an ice pack or wrap ice in a towel. To reduce swelling, wrap the affected area with an elastic bandage until swelling comes down.",Strains,NO
+mild sunburn after playing cricket,MILD,"Apply cool compress, aloe vera gel, drink water.",sun burn,NO
+how do you treat sun burn?,MODERATE,"Move out of the sun. Cool the skin with cool water or compresses. Apply aloe vera or moisturizer. Drink plenty of water. Seek medical help if there are blisters, severe pain, or fever.",sun burn,NO
+what to do if i get a sun burn?,MODERATE,"Move out of the sun. Cool the skin with cool water or compresses. Apply aloe vera or moisturizer. Drink plenty of water. Seek medical help if there are blisters, severe pain, or fever.",sun burn,NO
+which medicine to take if i get sun burn?,MODERATE,"Move out of the sun. Cool the skin with cool water or compresses. Apply aloe vera or moisturizer. Drink plenty of water. Seek medical help if there are blisters, severe pain, or fever.",sun burn,NO
+how to cure a sun burn?,MODERATE,"Move out of the sun. Cool the skin with cool water or compresses. Apply aloe vera or moisturizer. Drink plenty of water. Seek medical help if there are blisters, severe pain, or fever.",sun burn,NO
+how do you treat testicle pain?,MODERATE,"Lie down and support the scrotum. Apply cold pack gently to reduce pain and swelling. Avoid physical activity. Seek medical help immediately if pain is severe, sudden, with swelling, nausea, or vomiting.",Testicle Pain,NO
+what to do if i get a testicle pain?,MODERATE,"Lie down and support the scrotum. Apply cold pack gently to reduce pain and swelling. Avoid physical activity. Seek medical help immediately if pain is severe, sudden, with swelling, nausea, or vomiting.",Testicle Pain,NO
+which medicine to take if i get a testicle pain?,MODERATE,"Lie down and support the scrotum. Apply cold pack gently to reduce pain and swelling. Avoid physical activity. Seek medical help immediately if pain is severe, sudden, with swelling, nausea, or vomiting.",Testicle Pain,NO
+how to cure testicle pain?,MODERATE,"Lie down and support the scrotum. Apply cold pack gently to reduce pain and swelling. Avoid physical activity. Seek medical help immediately if pain is severe, sudden, with swelling, nausea, or vomiting.",Testicle Pain,NO
+my tooth is aching badly,MODERATE,"Rinse mouth with warm salt water, take painkiller, visit dentist soon.",tooth ache,NO
+child fell and tooth got knocked out,MODERATE,"Hold tooth by crown, rinse gently, place in milk, seek dentist immediately.",tooth ache,NO
+mild toothache since morning,MILD,"Rinse mouth with warm salt water, avoid very hot or cold foods, see dentist if persists.",tooth ache,NO
+severe tooth pain with facial swelling,SEVERE,"Seek dental emergency immediately, may be infection.",tooth ache,NO
+tooth pain with swelling on face,SEVERE,Seek emergency dental care immediately.,tooth ache,NO
+i have a toothache from eating sweets,MILD,"Rinse mouth, avoid sweets, consult dentist if it continues.",tooth ache,NO
+my gum is swollen with pus coming out,SEVERE,Seek emergency dental care immediately.,tooth ache,NO
+how do you treat a vertigo?,MILD,"Sit or lie down immediately to prevent falls. Keep head still and upright. Move slowly and avoid sudden movements. Hydrate if dehydrated. Seek medical help if severe, frequent, or with headache, vision changes, or weakness.",Vertigo,Betahistine
+what to do if i get a vertigo?,MILD,"Sit or lie down immediately to prevent falls. Keep head still and upright. Move slowly and avoid sudden movements. Hydrate if dehydrated. Seek medical help if severe, frequent, or with headache, vision changes, or weakness.",Vertigo,Betahistine
+which medicine to take if i get vertigo?,MILD,"Sit or lie down immediately to prevent falls. Keep head still and upright. Move slowly and avoid sudden movements. Hydrate if dehydrated. Seek medical help if severe, frequent, or with headache, vision changes, or weakness.",Vertigo,Betahistine
+how to cure a vertigo?,MILD,"Sit or lie down immediately to prevent falls. Keep head still and upright. Move slowly and avoid sudden movements. Hydrate if dehydrated. Seek medical help if severe, frequent, or with headache, vision changes, or weakness.",Vertigo,Betahistine
+how do you treat a wound?,MILD,"Rinse the cut or wound with water and apply pressure with sterile gauze, a bandage, or a clean cloth. If blood soaks through the bandage, place another bandage on top of the first and keep applying pressure. Raise the injured body part to slow bleeding. When bleeding stops, cover the wound with a new, clean bandage.",Wound,NO
+what to do if i get a wound?,MILD,"Rinse the cut or wound with water and apply pressure with sterile gauze, a bandage, or a clean cloth. If blood soaks through the bandage, place another bandage on top of the first and keep applying pressure. Raise the injured body part to slow bleeding. When bleeding stops, cover the wound with a new, clean bandage.",Wound,NO
+which medicine to take if i get wounded?,MILD,"Rinse the cut or wound with water and apply pressure with sterile gauze, a bandage, or a clean cloth. If blood soaks through the bandage, place another bandage on top of the first and keep applying pressure. Raise the injured body part to slow bleeding. When bleeding stops, cover the wound with a new, clean bandage.",Wound,NO
+how to cure a wound?,MILD,"Rinse the cut or wound with water and apply pressure with sterile gauze, a bandage, or a clean cloth. If blood soaks through the bandage, place another bandage on top of the first and keep applying pressure. Raise the injured body part to slow bleeding. When bleeding stops, cover the wound with a new, clean bandage.",Wound,NO
